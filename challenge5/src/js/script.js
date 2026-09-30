@@ -52,7 +52,7 @@ function onAnswerClicked(evt, isLastQuestion = false) {
   {
     createNotification("Quiz-Leiter", "Die nächste Frage kommt in " + (config.nextQuestionDuration / 1000) + " Sekunden...");
   } else {
-    createNotification("Quiz-Leiter", "Das war die letzte Frage, auf gehts zur Ausertung...");
+    createNotification("Quiz-Leiter", "Das war die letzte Frage, auf gehts zur Auswertung...");
   }
 
   setTimeout(() => {

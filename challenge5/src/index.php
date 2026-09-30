@@ -28,7 +28,7 @@ if ($_SERVER['REQUEST_METHOD'] === "POST" && isset($_POST["answer"])) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title><?= QUIZ_TITLE ?></title>
-  <link rel="shortcut icon" href="img/favicon.png" type="image/png">
+  <link rel="shortcut icon" href="./img/favicon.png" type="image/png">
   <link rel="stylesheet" href="./css/style.css" />
   <script src="./js/script.js" type="text/javascript"></script>
 </head>
@@ -36,8 +36,7 @@ if ($_SERVER['REQUEST_METHOD'] === "POST" && isset($_POST["answer"])) {
 <body>
   <div class="container">
     <div class="top-bar">
-      <span class="m-2 text-bold left"><?= QUIZ_TITLE ?></span>
-      <div class="clear"></div>
+      <span class="m-2 text-bold text"><?= QUIZ_TITLE ?></span>
     </div>
     <?php
     if ($quiz->has_error()) {
