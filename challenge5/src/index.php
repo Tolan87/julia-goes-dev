@@ -122,7 +122,7 @@ if ($_SERVER['REQUEST_METHOD'] === "POST" && isset($_POST["answer"])) {
           document.addEventListener("DOMContentLoaded", (evt) => {
             evt.preventDefault();
 
-            createNotification("Quiz", "Bist du bereit für die nächste Runde?");
+            createNotification("Quiz-Leiter", "Bist du bereit für die nächste Runde?");
           });
         </script>
         <?php

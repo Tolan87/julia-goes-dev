@@ -19,6 +19,8 @@ docker compose down
 ---
 Eine Demo des Quizes gibt es unter `http://quiz.tolan.bplaced.net`
 
+Die Demo kann leider manchmal etwas hängen aufgrund des Hosters, weshalb zeitlich abgestimmte Animationen nicht so laufen wie gewollt. Lokal läuft alles wie es soll.
+
 #### Erklärung zur Lösung
 ---
 
