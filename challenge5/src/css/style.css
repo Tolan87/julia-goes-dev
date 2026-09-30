@@ -1,0 +1,619 @@
+html {
+  height: 100%;
+}
+
+body {
+  background-color: #515151;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.top-bar {
+  align-content: center;
+  background-color: rgb(34, 34, 34);
+  border-bottom: 1px solid #666;
+  box-shadow: 0px -1px 7px 1px;
+  height: 4rem;
+  text-align: start;
+  user-select: none;
+  width: 100%;
+
+  & span {
+    color: rgb(152, 152, 152);
+    font-family: cursive;
+    font-size: medium;
+    letter-spacing: 0.015rem;
+    padding: 0rem 1rem;
+  }
+}
+
+#quiz {
+  background-color: #514e4e;
+  border: 1px solid #5b5b5b;
+  border-radius: 6px;
+  box-shadow: 0px 0px 2px 0px;
+  margin: 6.5rem 0rem 0rem 0rem;
+  min-height: 7.5rem;
+  min-width: 30rem;
+  /* padding: 0.5rem; */
+  text-align: center;
+  z-index: 2;
+}
+
+.error {
+  align-content: center;
+  background-color: #514e4e;
+  border: 1px solid #5b5b5b;
+  border-radius: 6px;
+  box-shadow: 0px 0px 2px 0px;
+  min-height: 100px;
+  margin: 5rem 0rem 0rem 0rem;
+  padding: 0.75rem;
+  text-align: center;
+  width: 400px;
+
+  & p {
+    text-wrap-mode: wrap;
+    text-wrap-style: pretty;
+  }
+}
+
+.question-card {
+  margin: 0.5rem;
+}
+
+.question {
+  background-color: #3c3b39;
+  border: 1px solid #6e6b63;
+  border-radius: 10px;
+  color: whitesmoke;
+  font-family: monospace;
+  font-size: large;
+  font-weight: bold;
+  height: 3rem;
+  align-content: center;
+  text-align: center;
+  padding: 0.8rem;
+  width: 30rem;
+}
+
+.statistic-header {
+  align-content: center;
+  background-color: #484343;
+  border-bottom: 1px solid #5b5b5b;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  box-shadow: 0px 2px 4px -3px rgb(0, 0, 0, 0.75);
+  font-size: medium;
+  font-weight: bold;
+  padding: 0.7rem;
+  user-select: none;
+}
+
+.statistics {
+  border: 2px solid #605f5c;
+  border-radius: 6px;
+  box-shadow: 0px 0px 2px 0px;
+  list-style: none;
+  margin: 1rem 0.5rem;
+  padding: 0;
+}
+
+.statistic-result {
+  align-content: center;
+  border-bottom: 1px solid #6e6b63;
+  color: antiquewhite;
+  font-family: monospace;
+  font-weight: bold;
+  padding: 0.4rem 0.4rem;
+  text-align: left;
+}
+
+.statistic-result:nth-child(odd) {
+  background-color: #3c3b39;
+}
+
+.statistic-result:first-child {
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.statistic-result:last-child {
+  border-bottom: none;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+.statistic-state {
+  border-radius: 6px;
+  display: inline-block;
+  height: 12px;
+  margin: 0rem 0.4rem 0rem 0rem;
+  vertical-align: middle;
+  width: 12px;
+
+  &.success {
+    background-color: #45bb0e;
+    /* border: 1px solid #44e218; */
+  }
+
+  &.failed {
+    background-color: #b72d0e;
+    /* border: 1px solid #ef3f17; */
+  }
+}
+
+.answers {
+  padding: 0.25rem 0rem 0rem 0rem;
+  width: 31.7rem;
+}
+
+.answer {
+  background-color: #3c3b39;
+  border: 1px solid #6e6b63;
+  border-radius: 30px;
+  color: whitesmoke;
+  font-weight: bolder;
+  margin: 0.5rem 0rem;
+  padding: 0.75rem 1rem;
+  text-align: center;
+  user-select: none;
+  width: 15rem;
+
+  &.marked {
+    background-color: #bb810e;
+    border: 1px solid #e2ac18;
+  }
+}
+
+.answer:enabled:hover {
+  animation-name: shake-effect;
+  animation-timing-function: ease-in-out;
+  animation-duration: 45ms;
+  animation-iteration-count: 4;
+  background-color: #4b4a47;
+  border: 1px solid #6e6b63;
+  cursor: pointer;
+
+  &.marked {
+    background-color: #bb810e;
+    border: 1px solid #e2ac18;
+  }
+}
+
+.answer:enabled:active {
+  background-color: #3c3b39;
+  border: 1px solid #6e6b63;
+  cursor: pointer;
+}
+
+.btn-new-game {
+  background-color: #484343;
+  border: none;
+  border-top: 1px solid #5b5b5b;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  box-shadow: 0px -2px 4px -3px rgb(0, 0, 0, 0.75);
+  color: burlywood;
+  font-size: medium;
+  font-weight: bold;
+  outline: none;
+  padding: 0.7rem;
+  user-select: none;
+  width: 100%;
+}
+
+.btn-new-game:enabled:hover {
+  background-color: #4e4949;
+  cursor: pointer;
+}
+
+.btn-new-game:enabled:active {
+  background-color: #484343;
+  cursor: pointer;
+}
+
+.points-overview {
+  align-content: center;
+  background-color: #514e4e;
+  border-top: none;
+  border-bottom: 1px solid #5b5b5b;
+  border-left: 1px solid #5b5b5b;
+  border-right: 1px solid #5b5b5b;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  box-shadow: inset 0px 0px 3px 0px;
+  height: 35px;
+  margin: -2rem 0rem 0rem 0rem;
+  opacity: 1;
+  padding: 0.25rem 0rem;
+  text-align: center;
+  user-select: none;
+  width: 19rem;
+  z-index: 1;
+
+  & p {
+    color: antiquewhite;
+    margin: 0;
+  }
+}
+
+.footer {
+  background-color: rgb(34, 34, 34);
+  border-top: 1px solid #666;
+  bottom: 0;
+  box-shadow: 0px 1px 7px 1px;
+  height: 4rem;
+  left: 0;
+  position: fixed;
+  text-align: center;
+  user-select: none;
+  width: 100%;
+  z-index: 0;
+
+  & p {
+    color: rgb(152, 152, 152);
+  }
+
+  & a {
+    margin: 0rem 0.5rem;
+    text-decoration: none;
+  }
+
+  & img {
+    height: 24px;
+    width: 24px;
+  }
+}
+
+#notifications {
+  position: fixed;
+  z-index: 2;
+}
+
+.notification {
+  background-color: #514e4e;
+  border: 1px solid #5b5b5b;
+  border-radius: 8px;
+  box-shadow: 0px 0px 4px 0px;
+  margin: 0.5rem 0.2rem;
+  min-height: 3.5rem;
+  text-wrap-mode: wrap;
+  user-select: none;
+  width: 20rem;
+}
+
+.notification .btn {
+  background-color: #514e4e;
+  border: 1px solid #5b5b5b;
+  border-radius: 4px;
+  color: whitesmoke;
+  cursor: pointer;
+  padding: 0.15rem 0.4rem 0rem 0.4rem;
+}
+
+.notification .btn:hover {
+  background-color: #646161;
+  border: 1px solid #424242;
+}
+
+.notification .btn:active {
+  background-color: #4e4a4a;
+  border: 1px solid #5b5b5b;
+}
+
+.notification-header {
+  background-color: #484545;
+  border-bottom: 1px solid #5b5b5b;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: larger;
+  justify-content: space-between;
+  letter-spacing: 0.015rem;
+  padding: 0.25rem 0.5rem;
+}
+
+.notification-message {
+  color: whitesmoke;
+  font-family: monospace;
+  padding: 0.5rem;
+}
+
+.top-left {
+  top: 5rem;
+  left: 1rem;
+}
+
+.top-right {
+  top: 5rem;
+  right: 1rem;
+}
+
+.bottom-left {
+  bottom: 5rem;
+  left: 1rem;
+}
+
+.bottom-right {
+  bottom: 5rem;
+  right: 1rem;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-bolder {
+  font-weight: bolder;
+}
+
+.text-lighter {
+  font-weight: lighter;
+}
+
+.text-normal {
+  font-weight: normal;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+.text-upper {
+  text-transform: uppercase;
+}
+
+.text-shadow {
+  text-shadow: 0px 0px 2px black;
+}
+
+.text-lower {
+  text-transform: lowercase;
+}
+
+.text-success {
+  color: rgb(7, 167, 7);
+}
+
+.text-danger {
+  color: rgb(240, 40, 40);
+}
+
+.text-antique {
+  color: antiquewhite;
+}
+
+.text-burly {
+  color: burlywood;
+}
+
+.font-small {
+  font-size: small !important;
+}
+
+.font-medium {
+  font-size: medium !important;
+}
+
+.font-large {
+  font-size: large !important;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.p-0 {
+  padding: 0 !important;
+}
+
+.p-1 {
+  padding: 0.5rem !important;
+}
+
+.p-2 {
+  padding: 1rem !important;
+}
+
+.p-3 {
+  padding: 1.25rem !important;
+}
+
+.pl-0 {
+  padding-left: 0 !important;
+}
+
+.pl-1 {
+  padding-left: 0.5rem !important;
+}
+
+.pl-2 {
+  padding-left: 1rem !important;
+}
+
+.pl-3 {
+  padding-left: 1.25rem !important;
+}
+
+.pr-0 {
+  padding-right: 0 !important;
+}
+
+.pr-1 {
+  padding-right: 0.5rem !important;
+}
+
+.pr-2 {
+  padding-right: 1rem !important;
+}
+
+.pr-3 {
+  padding-right: 1.25rem !important;
+}
+
+.m-0 {
+  margin: 0 !important;
+}
+
+.m-1 {
+  margin: 0.5rem !important;
+}
+
+.m-2 {
+  margin: 1rem !important;
+}
+
+.m-3 {
+  margin: 1.25rem !important;
+}
+
+@keyframes blend-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes blend-out {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes turn-up {
+  from {
+    margin: -0.2rem 0rem 0rem 0rem;
+  }
+
+  to {
+    margin: -2rem 0rem 0rem 0rem;
+  }
+}
+
+@keyframes turn-down {
+  from {
+    margin: -2rem 0rem 0rem 0rem;
+  }
+
+  to {
+    margin: -0.2rem 0rem 0rem 0rem;
+  }
+}
+
+@keyframes shake-effect {
+  from {
+    transform: translateX(0px);
+  }
+
+  to {
+    transform: translateX(1px);
+  }
+}
+
+@keyframes blink-effect {
+  from {
+    background-color: #3c3b39;
+    border: 1px solid #6e6b63;
+  }
+
+  to {
+    background-color: #45bb0e;
+    border: 1px solid #44e218;
+  }
+}
+
+@keyframes fall {
+  0% {
+    transform: rotate(0deg);
+    transform-origin: top left;
+    opacity: 1;
+  }
+
+  50% {
+    transform: rotate(45deg);
+    transform-origin: top left;
+    opacity: 1;
+  }
+
+  100% {
+    transform: translate(0px, 250px);
+    opacity: 0;
+  }
+}
+
+.turn-up {
+  animation-name: turn-up;
+  animation-timing-function: ease-in;
+  animation-duration: 500ms;
+  animation-iteration-count: 1;
+  margin: -2rem 0rem 0rem 0rem;
+}
+
+.turn-down {
+  animation-name: turn-down;
+  animation-timing-function: ease-in;
+  animation-duration: 500ms;
+  animation-iteration-count: 1;
+  margin: -0.2rem 0rem 0rem 0rem;
+}
+
+.fade-in {
+  animation-name: blend-in;
+  animation-timing-function: ease-in;
+  animation-duration: 500ms;
+  animation-iteration-count: 1;
+}
+
+.fade-out {
+  animation-name: blend-out;
+  animation-timing-function: ease-out;
+  animation-duration: 500ms;
+  animation-iteration-count: 1;
+}
+
+.shake-effect {
+  animation-name: shake-effect;
+  animation-timing-function: ease-in-out;
+  animation-duration: 200ms;
+  animation-iteration-count: 1;
+}
+
+.mark-correct {
+  animation-name: blink-effect;
+  animation-timing-function: ease-in-out;
+  animation-duration: 800ms;
+  animation-iteration-count: infinite;
+}
+
+.fall {
+  animation-name: fall;
+  animation-timing-function: ease-in-out;
+  animation-duration: 2750ms;
+  animation-iteration-count: 1;
+}

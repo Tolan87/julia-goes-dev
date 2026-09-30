@@ -1,0 +1,11 @@
+name: PHP-Environment
+
+services:
+  php-env:
+    build:
+      dockerfile: Dockerfile
+    image: tolanhd/php-env:latest
+    container_name: php-env-build
+    restart: always
+    ports:
+      - 80:80

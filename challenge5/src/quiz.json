@@ -1,0 +1,4806 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "category": "Geografie",
+        "title": "Welcher Ozean ist der flächenmäßig größte der Erde?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Atlantischer Ozean"
+          },
+          {
+            "id": 2,
+            "answer": "Indischer Ozean"
+          },
+          {
+            "id": 3,
+            "answer": "Pazifischer Ozean"
+          },
+          {
+            "id": 4,
+            "answer": "Arktischer Ozean"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 2,
+        "category": "Biologie",
+        "title": "Wie viele Knochen hat ein erwachsener menschlicher Körper im Durchschnitt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "206 Knochen"
+          },
+          {
+            "id": 2,
+            "answer": "150 Knochen"
+          },
+          {
+            "id": 3,
+            "answer": "300 Knochen"
+          },
+          {
+            "id": 4,
+            "answer": "250 Knochen"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 3,
+        "category": "Geschichte",
+        "title": "In welchem Jahr endete der Zweite Weltkrieg?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "1918"
+          },
+          {
+            "id": 2,
+            "answer": "1939"
+          },
+          {
+            "id": 3,
+            "answer": "1945"
+          },
+          {
+            "id": 4,
+            "answer": "1950"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 4,
+        "category": "Chemie",
+        "title": "Welches chemische Element hat das Symbol 'Fe'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Fluor"
+          },
+          {
+            "id": 2,
+            "answer": "Eisen"
+          },
+          {
+            "id": 3,
+            "answer": "Kupfer"
+          },
+          {
+            "id": 4,
+            "answer": "Blei"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 5,
+        "category": "Physik",
+        "title": "Wie lautet die SI-Einheit der elektrischen Spannung?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Ampere"
+          },
+          {
+            "id": 2,
+            "answer": "Watt"
+          },
+          {
+            "id": 3,
+            "answer": "Volt"
+          },
+          {
+            "id": 4,
+            "answer": "Ohm"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 6,
+        "category": "Literatur",
+        "title": "Wer schrieb das Werk 'Faust'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Friedrich Schiller"
+          },
+          {
+            "id": 2,
+            "answer": "Johann Wolfgang von Goethe"
+          },
+          {
+            "id": 3,
+            "answer": "Thomas Mann"
+          },
+          {
+            "id": 4,
+            "answer": "Heinrich Heine"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 7,
+        "category": "Musik",
+        "title": "Welcher Komponist schaffte die berühmte 9. Sinfonie trotz Taubheit?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Wolfgang Amadeus Mozart"
+          },
+          {
+            "id": 2,
+            "answer": "Ludwig van Beethoven"
+          },
+          {
+            "id": 3,
+            "answer": "Johann Sebastian Bach"
+          },
+          {
+            "id": 4,
+            "answer": "Franz Schubert"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 8,
+        "category": "Sport",
+        "title": "Wie lang ist die Strecke eines offiziellen Marathons?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "40,000 km"
+          },
+          {
+            "id": 2,
+            "answer": "42,195 km"
+          },
+          {
+            "id": 3,
+            "answer": "50,000 km"
+          },
+          {
+            "id": 4,
+            "answer": "21,097 km"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 9,
+        "category": "Astronomie",
+        "title": "Welcher Planet ist der Sonne am nächsten?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Venus"
+          },
+          {
+            "id": 2,
+            "answer": "Mars"
+          },
+          {
+            "id": 3,
+            "answer": "Merkur"
+          },
+          {
+            "id": 4,
+            "answer": "Jupiter"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 10,
+        "category": "Medizin",
+        "title": "Wer entdeckte 1928 das Penicillin?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Alexander Fleming"
+          },
+          {
+            "id": 2,
+            "answer": "Robert Koch"
+          },
+          {
+            "id": 3,
+            "answer": "Louis Pasteur"
+          },
+          {
+            "id": 4,
+            "answer": "Paul Ehrlich"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 11,
+        "category": "Kunst",
+        "title": "Wer malte das berühmte Gemälde 'Mona Lisa'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Michelangelo"
+          },
+          {
+            "id": 2,
+            "answer": "Leonardo da Vinci"
+          },
+          {
+            "id": 3,
+            "answer": "Raffael"
+          },
+          {
+            "id": 4,
+            "answer": "Vincent van Gogh"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 12,
+        "category": "Geografie",
+        "title": "Was ist die Hauptstadt von Australien?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Sydney"
+          },
+          {
+            "id": 2,
+            "answer": "Melbourne"
+          },
+          {
+            "id": 3,
+            "answer": "Canberra"
+          },
+          {
+            "id": 4,
+            "answer": "Brisbane"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 13,
+        "category": "Biologie",
+        "title": "Welches Bakterium ist bekannt für die Umwandlung von Milch zu Joghurt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Lactobacillus"
+          },
+          {
+            "id": 2,
+            "answer": "Escherichia coli"
+          },
+          {
+            "id": 3,
+            "answer": "Streptococcus pneumoniae"
+          },
+          {
+            "id": 4,
+            "answer": "Salmonella"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 14,
+        "category": "Geschichte",
+        "title": "In welchem Jahr stürzte das Weströmische Reich?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "330 n. Chr."
+          },
+          {
+            "id": 2,
+            "answer": "476 n. Chr."
+          },
+          {
+            "id": 3,
+            "answer": "800 n. Chr."
+          },
+          {
+            "id": 4,
+            "answer": "1453 n. Chr."
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 15,
+        "category": "Chemie",
+        "title": "Welches Gas macht den Hauptbestandteil unserer Erdatmosphäre aus?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Sauerstoff"
+          },
+          {
+            "id": 2,
+            "answer": "Stickstoff"
+          },
+          {
+            "id": 3,
+            "answer": "Kohlendioxid"
+          },
+          {
+            "id": 4,
+            "answer": "Argon"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 16,
+        "category": "Physik",
+        "title": "Wer formulierte die allgemeine Relativitätstheorie?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Isaac Newton"
+          },
+          {
+            "id": 2,
+            "answer": "Albert Einstein"
+          },
+          {
+            "id": 3,
+            "answer": "Niels Bohr"
+          },
+          {
+            "id": 4,
+            "answer": "Max Planck"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 17,
+        "category": "Literatur",
+        "title": "Aus welcher Epoche stammt der Roman 'Don Quijote'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Mittelalter"
+          },
+          {
+            "id": 2,
+            "answer": "Barock"
+          },
+          {
+            "id": 3,
+            "answer": "Aufklärung"
+          },
+          {
+            "id": 4,
+            "answer": "Romantik"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 18,
+        "category": "Musik",
+        "title": "Aus wie vielen Tasten besteht ein Standard-Klavier?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "76 Tasten"
+          },
+          {
+            "id": 2,
+            "answer": "88 Tasten"
+          },
+          {
+            "id": 3,
+            "answer": "92 Tasten"
+          },
+          {
+            "id": 4,
+            "answer": "80 Tasten"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 19,
+        "category": "Sport",
+        "title": "In welcher Sportart kämpft man um den Stanley Cup?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Baseball"
+          },
+          {
+            "id": 2,
+            "answer": "American Football"
+          },
+          {
+            "id": 3,
+            "answer": "Eishockey"
+          },
+          {
+            "id": 4,
+            "answer": "Basketball"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 20,
+        "category": "Astronomie",
+        "title": "Was ist der größte Planet in unserem Sonnensystem?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Saturn"
+          },
+          {
+            "id": 2,
+            "answer": "Neptun"
+          },
+          {
+            "id": 3,
+            "answer": "Jupiter"
+          },
+          {
+            "id": 4,
+            "answer": "Uranus"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 21,
+        "category": "Medizin",
+        "title": "Welche Erkrankung bezeichnet man als 'Diabetes mellitus Typ 1'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Autoimmunerkrankung"
+          },
+          {
+            "id": 2,
+            "answer": "Bakterielle Infektion"
+          },
+          {
+            "id": 3,
+            "answer": "Vitaminmangel"
+          },
+          {
+            "id": 4,
+            "answer": "Pilzinfektion"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 22,
+        "category": "Kunst",
+        "title": "Welche Kunstströmung begründeten Claude Monet und Edgar Degas?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Kubismus"
+          },
+          {
+            "id": 2,
+            "answer": "Impressionismus"
+          },
+          {
+            "id": 3,
+            "answer": "Surrealismus"
+          },
+          {
+            "id": 4,
+            "answer": "Expressionismus"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 23,
+        "category": "Geografie",
+        "title": "Welcher Fluss ist der längste der Welt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Amazonas"
+          },
+          {
+            "id": 2,
+            "answer": "Nil"
+          },
+          {
+            "id": 3,
+            "answer": "Yangtse"
+          },
+          {
+            "id": 4,
+            "answer": "Mississippi"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 24,
+        "category": "Biologie",
+        "title": "Wie nennt man die grüne Substanz in Pflanzenzellen zur Photosynthese?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Carotin"
+          },
+          {
+            "id": 2,
+            "answer": "Chlorophyll"
+          },
+          {
+            "id": 3,
+            "answer": "Melanin"
+          },
+          {
+            "id": 4,
+            "answer": "Hämoglobin"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 25,
+        "category": "Geschichte",
+        "title": "Wer war der erste Kaiser des Römischen Reiches?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Julius Cäsar"
+          },
+          {
+            "id": 2,
+            "answer": "Augustus"
+          },
+          {
+            "id": 3,
+            "answer": "Nero"
+          },
+          {
+            "id": 4,
+            "answer": "Trajan"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 26,
+        "category": "Chemie",
+        "title": "Was ist der pH-Wert von reinem Wasser bei 25 Grad Celsius?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "5"
+          },
+          {
+            "id": 2,
+            "answer": "7"
+          },
+          {
+            "id": 3,
+            "answer": "9"
+          },
+          {
+            "id": 4,
+            "answer": "1"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 27,
+        "category": "Physik",
+        "title": "Wie hoch ist die Lichtgeschwindigkeit im Vakuum rund?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "150.000 km/s"
+          },
+          {
+            "id": 2,
+            "answer": "300.000 km/s"
+          },
+          {
+            "id": 3,
+            "answer": "500.000 km/s"
+          },
+          {
+            "id": 4,
+            "answer": "1.000.000 km/s"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 28,
+        "category": "Literatur",
+        "title": "Aus welchem Land stammte der Schriftsteller Franz Kafka?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Österreich"
+          },
+          {
+            "id": 2,
+            "answer": "Deutschland"
+          },
+          {
+            "id": 3,
+            "answer": "Tschechien"
+          },
+          {
+            "id": 4,
+            "answer": "Schweiz"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 29,
+        "category": "Musik",
+        "title": "Welches Blasinstrument wird aus Holz oder Metall gebaut und hat ein Rohrblatt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Trompete"
+          },
+          {
+            "id": 2,
+            "answer": "Klarinette"
+          },
+          {
+            "id": 3,
+            "answer": "Posaune"
+          },
+          {
+            "id": 4,
+            "answer": "Flöte"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 30,
+        "category": "Sport",
+        "title": "Wo fanden 1896 die ersten Olympischen Spiele der Neuzeit statt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Paris"
+          },
+          {
+            "id": 2,
+            "answer": "Athen"
+          },
+          {
+            "id": 3,
+            "answer": "London"
+          },
+          {
+            "id": 4,
+            "answer": "Rom"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 31,
+        "category": "Astronomie",
+        "title": "Welches Phänomen entsteht, wenn ein kleiner Himmelskörper in der Atmosphäre verglüht?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Supernova"
+          },
+          {
+            "id": 2,
+            "answer": "Sternschnuppe"
+          },
+          {
+            "id": 3,
+            "answer": "Schwarzes Loch"
+          },
+          {
+            "id": 4,
+            "answer": "Pulsar"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 32,
+        "category": "Medizin",
+        "title": "Was bekämpfen Antibiotika gezielt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Viren"
+          },
+          {
+            "id": 2,
+            "answer": "Bakterien"
+          },
+          {
+            "id": 3,
+            "answer": "Pilze"
+          },
+          {
+            "id": 4,
+            "answer": "Prionen"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 33,
+        "category": "Kunst",
+        "title": "Welcher Künstler schnitt sich bekannterweise ein Ohr ab?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 2,
+            "answer": "Vincent van Gogh"
+          },
+          {
+            "id": 3,
+            "answer": "Salvador Dalí"
+          },
+          {
+            "id": 4,
+            "answer": "Paul Gauguin"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 34,
+        "category": "Geografie",
+        "title": "In welchem Gebirge liegt der Mount Everest?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Anden"
+          },
+          {
+            "id": 2,
+            "answer": "Himalaya"
+          },
+          {
+            "id": 3,
+            "answer": "Rocky Mountains"
+          },
+          {
+            "id": 4,
+            "answer": "Alpen"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 35,
+        "category": "Biologie",
+        "title": "Wie lautet die wissenschaftliche Bezeichnung für das menschliche Erbgut?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "RNA"
+          },
+          {
+            "id": 2,
+            "answer": "DNA"
+          },
+          {
+            "id": 3,
+            "answer": "ATP"
+          },
+          {
+            "id": 4,
+            "answer": "GTP"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 36,
+        "category": "Geschichte",
+        "title": "Wer war der erste Präsident der Vereinigten Staaten von Amerika?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Thomas Jefferson"
+          },
+          {
+            "id": 2,
+            "answer": "George Washington"
+          },
+          {
+            "id": 3,
+            "answer": "Abraham Lincoln"
+          },
+          {
+            "id": 4,
+            "answer": "John Adams"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 37,
+        "category": "Chemie",
+        "title": "Welches Edelgas hat die Ordnungszahl 1 im Periodensystem?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Helium"
+          },
+          {
+            "id": 2,
+            "answer": "Wasserstoff"
+          },
+          {
+            "id": 3,
+            "answer": "Keines, H hat 1"
+          },
+          {
+            "id": 4,
+            "answer": "Neon"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 38,
+        "category": "Physik",
+        "title": "Was beschreibt die Entropie in der Thermodynamik?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Masse"
+          },
+          {
+            "id": 2,
+            "answer": "Grad der Unordnung"
+          },
+          {
+            "id": 3,
+            "answer": "Geschwindigkeit"
+          },
+          {
+            "id": 4,
+            "answer": "Dichte"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 39,
+        "category": "Literatur",
+        "title": "Wer verfasste das Epos 'Die Odyssee'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Sophokles"
+          },
+          {
+            "id": 2,
+            "answer": "Homer"
+          },
+          {
+            "id": 3,
+            "answer": "Vergil"
+          },
+          {
+            "id": 4,
+            "answer": "Ovid"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 40,
+        "category": "Musik",
+        "title": "Wie nennt man ein Musikstück für genau vier Instrumente?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Trio"
+          },
+          {
+            "id": 2,
+            "answer": "Quartett"
+          },
+          {
+            "id": 3,
+            "answer": "Quintett"
+          },
+          {
+            "id": 4,
+            "answer": "Sextett"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 41,
+        "category": "Sport",
+        "title": "Welches Land gewann die Fußball-Weltmeisterschaft der Herren 2014?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Brasilien"
+          },
+          {
+            "id": 2,
+            "answer": "Argentinien"
+          },
+          {
+            "id": 3,
+            "answer": "Deutschland"
+          },
+          {
+            "id": 4,
+            "answer": "Spanien"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 42,
+        "category": "Astronomie",
+        "title": "Wie heißen die beiden Monde des Mars?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Phobos und Deimos"
+          },
+          {
+            "id": 2,
+            "answer": "Io und Europa"
+          },
+          {
+            "id": 3,
+            "answer": "Titan und Enceladus"
+          },
+          {
+            "id": 4,
+            "answer": "Ganymed und Kallisto"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 43,
+        "category": "Medizin",
+        "title": "Welches Organ entzündet sich bei einer Hepatitis?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Niere"
+          },
+          {
+            "id": 2,
+            "answer": "Lunge"
+          },
+          {
+            "id": 3,
+            "answer": "Leber"
+          },
+          {
+            "id": 4,
+            "answer": "Magen"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 44,
+        "category": "Kunst",
+        "title": "Aus welcher Epoche stammt die Plastik 'Der Denker' von Auguste Rodin?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Renaissance"
+          },
+          {
+            "id": 2,
+            "answer": "Moderne / Impressionismus"
+          },
+          {
+            "id": 3,
+            "answer": "Gotik"
+          },
+          {
+            "id": 4,
+            "answer": "Barock"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 45,
+        "category": "Geografie",
+        "title": "Welches ist das flächenmäßig kleinste Land der Welt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Monaco"
+          },
+          {
+            "id": 2,
+            "answer": "Vatikanstadt"
+          },
+          {
+            "id": 3,
+            "answer": "Nauru"
+          },
+          {
+            "id": 4,
+            "answer": "San Marino"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 46,
+        "category": "Biologie",
+        "title": "Welches Organ stellt beim Menschen das Insulin her?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Leber"
+          },
+          {
+            "id": 2,
+            "answer": "Bauchspeicheldrüse"
+          },
+          {
+            "id": 3,
+            "answer": "Milz"
+          },
+          {
+            "id": 4,
+            "answer": "Gallenblase"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 47,
+        "category": "Geschichte",
+        "title": "Welche Revolution begann im Jahr 1789?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Russische Revolution"
+          },
+          {
+            "id": 2,
+            "answer": "Französische Revolution"
+          },
+          {
+            "id": 3,
+            "answer": "Amerikanische Revolution"
+          },
+          {
+            "id": 4,
+            "answer": "Industrielle Revolution"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 48,
+        "category": "Chemie",
+        "title": "Welches Element ist flüssig bei Raumtemperatur neben Quecksilber?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Brom"
+          },
+          {
+            "id": 2,
+            "answer": "Chlor"
+          },
+          {
+            "id": 3,
+            "answer": "Jod"
+          },
+          {
+            "id": 4,
+            "answer": "Gallium"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 49,
+        "category": "Physik",
+        "title": "Welches Teilchen trägt eine negative elektrische Ladung?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Proton"
+          },
+          {
+            "id": 2,
+            "answer": "Neutron"
+          },
+          {
+            "id": 3,
+            "answer": "Elektron"
+          },
+          {
+            "id": 4,
+            "answer": "Photon"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 50,
+        "category": "Literatur",
+        "title": "Welcher Schriftsteller schrieb 'Romeo und Julia'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "William Shakespeare"
+          },
+          {
+            "id": 2,
+            "answer": "Oscar Wilde"
+          },
+          {
+            "id": 3,
+            "answer": "Charles Dickens"
+          },
+          {
+            "id": 4,
+            "answer": "Molière"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 51,
+        "category": "Musik",
+        "title": "In welcher Epoche wirkte Johann Sebastian Bach überwiegend?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Klassik"
+          },
+          {
+            "id": 2,
+            "answer": "Barock"
+          },
+          {
+            "id": 3,
+            "answer": "Romantik"
+          },
+          {
+            "id": 4,
+            "answer": "Renaissance"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 52,
+        "category": "Sport",
+        "title": "Aus wie vielen Spielern besteht ein Team auf dem Feld beim Basketball?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "5 Spieler"
+          },
+          {
+            "id": 2,
+            "answer": "6 Spieler"
+          },
+          {
+            "id": 3,
+            "answer": "7 Spieler"
+          },
+          {
+            "id": 4,
+            "answer": "11 Spieler"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 53,
+        "category": "Astronomie",
+        "title": "Welche Galaxie ist der Milchstraße am nächsten?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Andromedagalaxie"
+          },
+          {
+            "id": 2,
+            "answer": "Sombrerogalaxie"
+          },
+          {
+            "id": 3,
+            "answer": "Whirlpool-Galaxie"
+          },
+          {
+            "id": 4,
+            "answer": "Dreiecksnebel"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 54,
+        "category": "Medizin",
+        "title": "Welcher Erreger löst die Krankheit Malaria aus?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Plasmodien (Einzeller)"
+          },
+          {
+            "id": 2,
+            "answer": "Influenzaviren"
+          },
+          {
+            "id": 3,
+            "answer": "Borrelien"
+          },
+          {
+            "id": 4,
+            "answer": "Prionen"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 55,
+        "category": "Kunst",
+        "title": "In welchem Museum hängt das Original der Mona Lisa?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Prado"
+          },
+          {
+            "id": 2,
+            "answer": "Louvre"
+          },
+          {
+            "id": 3,
+            "answer": "Uffizien"
+          },
+          {
+            "id": 4,
+            "answer": "Tate Modern"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 56,
+        "category": "Geografie",
+        "title": "Welches Land hat die meisten Einwohner weltweit?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "China"
+          },
+          {
+            "id": 2,
+            "answer": "Indien"
+          },
+          {
+            "id": 3,
+            "answer": "USA"
+          },
+          {
+            "id": 4,
+            "answer": "Indonesien"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 57,
+        "category": "Biologie",
+        "title": "Welche Blutgruppe gilt als universeller Spender für Erythrozyten?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "A Positiv"
+          },
+          {
+            "id": 2,
+            "answer": "0 Negativ"
+          },
+          {
+            "id": 3,
+            "answer": "AB Positiv"
+          },
+          {
+            "id": 4,
+            "answer": "B Negativ"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 58,
+        "category": "Geschichte",
+        "title": "Welches Ereignis löste 1914 den Ersten Weltkrieg aus?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Attentat von Sarajevo"
+          },
+          {
+            "id": 2,
+            "answer": "Sturm auf die Bastille"
+          },
+          {
+            "id": 3,
+            "answer": "Torpedierung der Lusitania"
+          },
+          {
+            "id": 4,
+            "answer": "Mauerbau"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 59,
+        "category": "Chemie",
+        "title": "Aus welchen Elementen besteht Methan?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Kohlenstoff und Wasserstoff"
+          },
+          {
+            "id": 2,
+            "answer": "Stickstoff und Sauerstoff"
+          },
+          {
+            "id": 3,
+            "answer": "Kohlenstoff und Sauerstoff"
+          },
+          {
+            "id": 4,
+            "answer": "Wasserstoff und Chlor"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 60,
+        "category": "Physik",
+        "title": "Welche physikalische Größe misst man in Pascal?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Masse"
+          },
+          {
+            "id": 2,
+            "answer": "Druck"
+          },
+          {
+            "id": 3,
+            "answer": "Energie"
+          },
+          {
+            "id": 4,
+            "answer": "Leistung"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 61,
+        "category": "Literatur",
+        "title": "Wer verfasste die 'Divina Commedia' (Göttliche Komödie)?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Dante Alighieri"
+          },
+          {
+            "id": 2,
+            "answer": "Boccaccio"
+          },
+          {
+            "id": 3,
+            "answer": "Petrarca"
+          },
+          {
+            "id": 4,
+            "answer": "Machiavelli"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 62,
+        "category": "Musik",
+        "title": "Welche Stimmlage ist die höchste Frauenstimme im Gesang?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Alt"
+          },
+          {
+            "id": 2,
+            "answer": "Mezzosopran"
+          },
+          {
+            "id": 3,
+            "answer": "Sopran"
+          },
+          {
+            "id": 4,
+            "answer": "Tenor"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 63,
+        "category": "Sport",
+        "title": "Welche Sportart wird auf einem 'Velodrom' ausgetragen?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Pferderennen"
+          },
+          {
+            "id": 2,
+            "answer": "Bahnradsport"
+          },
+          {
+            "id": 3,
+            "answer": "Eisschnelllauf"
+          },
+          {
+            "id": 4,
+            "answer": "Leichtathletik"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 64,
+        "category": "Astronomie",
+        "title": "Was ist die Sonne astronomisch gesehen?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Planet"
+          },
+          {
+            "id": 2,
+            "answer": "Stern"
+          },
+          {
+            "id": 3,
+            "answer": "Asteroid"
+          },
+          {
+            "id": 4,
+            "answer": "Komet"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 65,
+        "category": "Medizin",
+        "title": "Welche Substanz wird zur lokalen Betäubung in der Zahnmedizin genutzt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Lidocain"
+          },
+          {
+            "id": 2,
+            "answer": "Ibuprofen"
+          },
+          {
+            "id": 3,
+            "answer": "Paracetamol"
+          },
+          {
+            "id": 4,
+            "answer": "Aspirin"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 66,
+        "category": "Kunst",
+        "title": "Welcher Künstler schuf das Gemälde 'Die Beständigkeit der Erinnerung'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "René Magritte"
+          },
+          {
+            "id": 2,
+            "answer": "Salvador Dalí"
+          },
+          {
+            "id": 3,
+            "answer": "Max Ernst"
+          },
+          {
+            "id": 4,
+            "answer": "Joan Miró"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 67,
+        "category": "Geografie",
+        "title": "In welchem Land liegt die Atacama-Wüste?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Chile"
+          },
+          {
+            "id": 2,
+            "answer": "Argentinien"
+          },
+          {
+            "id": 3,
+            "answer": "Peru"
+          },
+          {
+            "id": 4,
+            "answer": "Brasilien"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 68,
+        "category": "Biologie",
+        "title": "Welches ist das größte Säugetier der Erde?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Afrikanischer Elefant"
+          },
+          {
+            "id": 2,
+            "answer": "Blauwal"
+          },
+          {
+            "id": 3,
+            "answer": "Pottwal"
+          },
+          {
+            "id": 4,
+            "answer": "Giraffe"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 69,
+        "category": "Geschichte",
+        "title": "Wann fiel die Berliner Mauer?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "1987"
+          },
+          {
+            "id": 2,
+            "answer": "1989"
+          },
+          {
+            "id": 3,
+            "answer": "1990"
+          },
+          {
+            "id": 4,
+            "answer": "1991"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 70,
+        "category": "Chemie",
+        "title": "Wie lautet die chemische Formel für Kochsalz?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "KCl"
+          },
+          {
+            "id": 2,
+            "answer": "NaCl"
+          },
+          {
+            "id": 3,
+            "answer": "CaCl2"
+          },
+          {
+            "id": 4,
+            "answer": "NaOH"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 71,
+        "category": "Physik",
+        "title": "Welcher physikalische Satz besagt, dass Energie nicht vernichtet werden kann?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Impulssatz"
+          },
+          {
+            "id": 2,
+            "answer": "Energieerhaltungssatz"
+          },
+          {
+            "id": 3,
+            "answer": "Trägheitssatz"
+          },
+          {
+            "id": 4,
+            "answer": "Gravitationsgesetz"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 72,
+        "category": "Literatur",
+        "title": "Wer schrieb den Roman 'Der Zauberberg'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Hermann Hesse"
+          },
+          {
+            "id": 2,
+            "answer": "Thomas Mann"
+          },
+          {
+            "id": 3,
+            "answer": "Stefan Zweig"
+          },
+          {
+            "id": 4,
+            "answer": "Robert Musil"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 73,
+        "category": "Musik",
+        "title": "Wer komponierte die Oper 'Die Zauberflöte'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Joseph Haydn"
+          },
+          {
+            "id": 2,
+            "answer": "Wolfgang Amadeus Mozart"
+          },
+          {
+            "id": 3,
+            "answer": "Gioachino Rossini"
+          },
+          {
+            "id": 4,
+            "answer": "Richard Wagner"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 74,
+        "category": "Sport",
+        "title": "Wie viele Punkte ist ein Try beim Rugby Union wert?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "3 Punkte"
+          },
+          {
+            "id": 2,
+            "answer": "5 Punkte"
+          },
+          {
+            "id": 3,
+            "answer": "6 Punkte"
+          },
+          {
+            "id": 4,
+            "answer": "7 Punkte"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 75,
+        "category": "Astronomie",
+        "title": "Was befindet sich im Zentrum der meisten Galaxien?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Ein Neutronenstern"
+          },
+          {
+            "id": 2,
+            "answer": "Supermassereiches Loch"
+          },
+          {
+            "id": 3,
+            "answer": "Ein Roter Riese"
+          },
+          {
+            "id": 4,
+            "answer": "Ein Weißer Zwerg"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 76,
+        "category": "Medizin",
+        "title": "Gegen welche Krankheit schützt die BCG-Impfung?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Tuberkulose"
+          },
+          {
+            "id": 2,
+            "answer": "Tetanus"
+          },
+          {
+            "id": 3,
+            "answer": "Masern"
+          },
+          {
+            "id": 4,
+            "answer": "Polio"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 77,
+        "category": "Kunst",
+        "title": "Welcher Künstler begründete den Kubismus zusammen mit Georges Braque?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 2,
+            "answer": "Henri Matisse"
+          },
+          {
+            "id": 3,
+            "answer": "Paul Cézanne"
+          },
+          {
+            "id": 4,
+            "answer": "Marc Chagall"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 78,
+        "category": "Geografie",
+        "title": "Wie heißt die Hauptstadt von Kanada?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Toronto"
+          },
+          {
+            "id": 2,
+            "answer": "Vancouver"
+          },
+          {
+            "id": 3,
+            "answer": "Ottawa"
+          },
+          {
+            "id": 4,
+            "answer": "Montreal"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 79,
+        "category": "Biologie",
+        "title": "Welche Zellorgane werden als 'Kraftwerke der Zelle' bezeichnet?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Ribosomen"
+          },
+          {
+            "id": 2,
+            "answer": "Mitochondrien"
+          },
+          {
+            "id": 3,
+            "answer": "Lysosomen"
+          },
+          {
+            "id": 4,
+            "answer": "Golgi-Apparat"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 80,
+        "category": "Geschichte",
+        "title": "Welches Reich wurde von Genghis Khan gegründet?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Mongolisches Reich"
+          },
+          {
+            "id": 2,
+            "answer": "Osmanisches Reich"
+          },
+          {
+            "id": 3,
+            "answer": "Persisches Reich"
+          },
+          {
+            "id": 4,
+            "answer": "Chinesisches Kaiserreich"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 81,
+        "category": "Chemie",
+        "title": "Welche Säure befindet sich im menschlichen Magen?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Schwefelsäure"
+          },
+          {
+            "id": 2,
+            "answer": "Salzsäure"
+          },
+          {
+            "id": 3,
+            "answer": "Salpetersäure"
+          },
+          {
+            "id": 4,
+            "answer": "Essigsäure"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 82,
+        "category": "Physik",
+        "title": "Welche Größe beschreibt die Frequenz im SI-System?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Joule"
+          },
+          {
+            "id": 2,
+            "answer": "Hertz"
+          },
+          {
+            "id": 3,
+            "answer": "Newton"
+          },
+          {
+            "id": 4,
+            "answer": "Tesla"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 83,
+        "category": "Literatur",
+        "title": "Wer verfasste die Dystopie '1984'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Aldous Huxley"
+          },
+          {
+            "id": 2,
+            "answer": "George Orwell"
+          },
+          {
+            "id": 3,
+            "answer": "Ray Bradbury"
+          },
+          {
+            "id": 4,
+            "answer": "H. G. Wells"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 84,
+        "category": "Musik",
+        "title": "Wer schrieb die Opern-Trilogie 'Der Ring des Nibelungen'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Giuseppe Verdi"
+          },
+          {
+            "id": 2,
+            "answer": "Richard Wagner"
+          },
+          {
+            "id": 3,
+            "answer": "Giacomo Puccini"
+          },
+          {
+            "id": 4,
+            "answer": "Richard Strauss"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 85,
+        "category": "Sport",
+        "title": "In welchem Sport gibt es die Begriffe 'Birdie', 'Eagle' und 'Bogey'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Tennis"
+          },
+          {
+            "id": 2,
+            "answer": "Golf"
+          },
+          {
+            "id": 3,
+            "answer": "Cricket"
+          },
+          {
+            "id": 4,
+            "answer": "Bowling"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 86,
+        "category": "Astronomie",
+        "title": "Aus welchem Hauptstoff besteht die Sonne vor allem?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Helium"
+          },
+          {
+            "id": 2,
+            "answer": "Wasserstoff"
+          },
+          {
+            "id": 3,
+            "answer": "Sauerstoff"
+          },
+          {
+            "id": 4,
+            "answer": "Kohlenstoff"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 87,
+        "category": "Medizin",
+        "title": "Welche Infektionskrankheit wird durch das BVD- oder HIV-Virus ausgelöst?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "AIDS"
+          },
+          {
+            "id": 2,
+            "answer": "Hepatitis B"
+          },
+          {
+            "id": 3,
+            "answer": "Gürtelrose"
+          },
+          {
+            "id": 4,
+            "answer": "Windpocken"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 88,
+        "category": "Kunst",
+        "title": "Wer erschuf das berühmte Deckengemälde in der Sixtinischen Kapelle?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Leonardo da Vinci"
+          },
+          {
+            "id": 2,
+            "answer": "Michelangelo"
+          },
+          {
+            "id": 3,
+            "answer": "Donatello"
+          },
+          {
+            "id": 4,
+            "answer": "Caravaggio"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 89,
+        "category": "Geografie",
+        "title": "Welches Land besitzt die längste Küstenlinie der Welt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Russland"
+          },
+          {
+            "id": 2,
+            "answer": "Kanada"
+          },
+          {
+            "id": 3,
+            "answer": "Australien"
+          },
+          {
+            "id": 4,
+            "answer": "Indonesien"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 90,
+        "category": "Biologie",
+        "title": "Wie viele Herzkammern besitzt das Herz eines Säugetiers?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "2"
+          },
+          {
+            "id": 2,
+            "answer": "3"
+          },
+          {
+            "id": 3,
+            "answer": "4"
+          },
+          {
+            "id": 4,
+            "answer": "5"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 91,
+        "category": "Geschichte",
+        "title": "Welches antike Weltwunder stand in Alexandria?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Der Koloss von Rhodos"
+          },
+          {
+            "id": 2,
+            "answer": "Der Leuchtturm"
+          },
+          {
+            "id": 3,
+            "answer": "Die hängenden Gärten"
+          },
+          {
+            "id": 4,
+            "answer": "Das Mausoleum"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 92,
+        "category": "Chemie",
+        "title": "Was versteht man unter Sublimation?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Fest zu flüssig"
+          },
+          {
+            "id": 2,
+            "answer": "Fest direkt zu gasförmig"
+          },
+          {
+            "id": 3,
+            "answer": "Gasförmig zu flüssig"
+          },
+          {
+            "id": 4,
+            "answer": "Flüssig zu fest"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 93,
+        "category": "Physik",
+        "title": "Welche Kraft hält die Planeten auf ihrer Umlaufbahn?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Elektromagnetismus"
+          },
+          {
+            "id": 2,
+            "answer": "Gravitationskraft"
+          },
+          {
+            "id": 3,
+            "answer": "Starke Kernkraft"
+          },
+          {
+            "id": 4,
+            "answer": "Schwache Kernkraft"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 94,
+        "category": "Literatur",
+        "title": "Wer verfasste die Tragödie 'Medea' in der Antike?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Aischylos"
+          },
+          {
+            "id": 2,
+            "answer": "Euripides"
+          },
+          {
+            "id": 3,
+            "answer": "Aristophanes"
+          },
+          {
+            "id": 4,
+            "answer": "Sophokles"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 95,
+        "category": "Musik",
+        "title": "Welches Instrument gehört zur Familie der Schlaginstrumente?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Pauke"
+          },
+          {
+            "id": 2,
+            "answer": "Fagott"
+          },
+          {
+            "id": 3,
+            "answer": "Cello"
+          },
+          {
+            "id": 4,
+            "answer": "Oboe"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 96,
+        "category": "Sport",
+        "title": "Welches Land erfand das moderne Tennisspiel?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Frankreich"
+          },
+          {
+            "id": 2,
+            "answer": "Großbritannien"
+          },
+          {
+            "id": 3,
+            "answer": "USA"
+          },
+          {
+            "id": 4,
+            "answer": "Australien"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 97,
+        "category": "Astronomie",
+        "title": "Wie wird eine Explosion eines massereichen Sternes genannt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Protostern"
+          },
+          {
+            "id": 2,
+            "answer": "Supernova"
+          },
+          {
+            "id": 3,
+            "answer": "Planetarer Nebel"
+          },
+          {
+            "id": 4,
+            "answer": "Kometenausbruch"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 98,
+        "category": "Medizin",
+        "title": "Welches Hormon senkt den Blutzuckerspiegel?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Glukagon"
+          },
+          {
+            "id": 2,
+            "answer": "Insulin"
+          },
+          {
+            "id": 3,
+            "answer": "Adrenalin"
+          },
+          {
+            "id": 4,
+            "answer": "Cortisol"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 99,
+        "category": "Kunst",
+        "title": "Wer schuf die Statue des 'David' in Florenz?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Donatello"
+          },
+          {
+            "id": 2,
+            "answer": "Michelangelo"
+          },
+          {
+            "id": 3,
+            "answer": "Bernini"
+          },
+          {
+            "id": 4,
+            "answer": "Brunelleschi"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 100,
+        "category": "Geografie",
+        "title": "Welcher See ist der tiefste der Erde?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Kaspisches Meer"
+          },
+          {
+            "id": 2,
+            "answer": "Baikalsee"
+          },
+          {
+            "id": 3,
+            "answer": "Tanganjikasee"
+          },
+          {
+            "id": 4,
+            "answer": "Oberer See"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 101,
+        "category": "Geografie",
+        "title": "Wie heißt die Hauptstadt von Japan?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Kyoto"
+          },
+          {
+            "id": 2,
+            "answer": "Osaka"
+          },
+          {
+            "id": 3,
+            "answer": "Tokio"
+          },
+          {
+            "id": 4,
+            "answer": "Yokohama"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 102,
+        "category": "Biologie",
+        "title": "Welches Säugetier kann als einziges aktiv fliegen?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Flughörnchen"
+          },
+          {
+            "id": 2,
+            "answer": "Fledermaus"
+          },
+          {
+            "id": 3,
+            "answer": "Fliegender Fisch"
+          },
+          {
+            "id": 4,
+            "answer": "Känguru"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 103,
+        "category": "Geschichte",
+        "title": "Wer entdeckte 1492 Amerika für die europäische Welt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Vasco da Gama"
+          },
+          {
+            "id": 2,
+            "answer": "Christoph Kolumbus"
+          },
+          {
+            "id": 3,
+            "answer": "Ferdinand Magellan"
+          },
+          {
+            "id": 4,
+            "answer": "Amerigo Vespucci"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 104,
+        "category": "Chemie",
+        "title": "Welches ist das leichteste Element im Periodensystem?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Helium"
+          },
+          {
+            "id": 2,
+            "answer": "Wasserstoff"
+          },
+          {
+            "id": 3,
+            "answer": "Lithium"
+          },
+          {
+            "id": 4,
+            "answer": "Stickstoff"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 105,
+        "category": "Physik",
+        "title": "Welche Einheit misst die elektrische Leistung?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Joule"
+          },
+          {
+            "id": 2,
+            "answer": "Watt"
+          },
+          {
+            "id": 3,
+            "answer": "Volt"
+          },
+          {
+            "id": 4,
+            "answer": "Ampere"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 106,
+        "category": "Literatur",
+        "title": "Wer schrieb den Roman 'Der alte Mann und das Meer'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Mark Twain"
+          },
+          {
+            "id": 2,
+            "answer": "Ernest Hemingway"
+          },
+          {
+            "id": 3,
+            "answer": "John Steinbeck"
+          },
+          {
+            "id": 4,
+            "answer": "F. Scott Fitzgerald"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 107,
+        "category": "Musik",
+        "title": "Welches Streichinstrument ist das tiefste im klassischen Orchester?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Violine"
+          },
+          {
+            "id": 2,
+            "answer": "Bratsche"
+          },
+          {
+            "id": 3,
+            "answer": "Violoncello"
+          },
+          {
+            "id": 4,
+            "answer": "Kontrabass"
+          }
+        ],
+        "solution_id": 4
+      },
+      {
+        "id": 108,
+        "category": "Sport",
+        "title": "In welcher Sportart ist die 'Tour de France' das bekannteste Rennen?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Motorsport"
+          },
+          {
+            "id": 2,
+            "answer": "Radsport"
+          },
+          {
+            "id": 3,
+            "answer": "Marathon"
+          },
+          {
+            "id": 4,
+            "answer": "Rudern"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 109,
+        "category": "Astronomie",
+        "title": "Wie viele Planeten hat unser Sonnensystem offiziell?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "7"
+          },
+          {
+            "id": 2,
+            "answer": "8"
+          },
+          {
+            "id": 3,
+            "answer": "9"
+          },
+          {
+            "id": 4,
+            "answer": "10"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 110,
+        "category": "Medizin",
+        "title": "Gegen welche Viren schützt die Grippeimpfung jährlich neu?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Influenza-Viren"
+          },
+          {
+            "id": 2,
+            "answer": "Rhinoviren"
+          },
+          {
+            "id": 3,
+            "answer": "Adenoviren"
+          },
+          {
+            "id": 4,
+            "answer": "Herpesviren"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 111,
+        "category": "Kunst",
+        "title": "Aus welchem Land stammte der Maler Edvard Munch?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Schweden"
+          },
+          {
+            "id": 2,
+            "answer": "Norwegen"
+          },
+          {
+            "id": 3,
+            "answer": "Dänemark"
+          },
+          {
+            "id": 4,
+            "answer": "Finnland"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 112,
+        "category": "Geografie",
+        "title": "Welches ist die flächenmäßig größte Insel der Erde?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Madagaskar"
+          },
+          {
+            "id": 2,
+            "answer": "Grönland"
+          },
+          {
+            "id": 3,
+            "answer": "Borneo"
+          },
+          {
+            "id": 4,
+            "answer": "Neuguinea"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 113,
+        "category": "Biologie",
+        "title": "Wie nennt man die Verwandlung einer Raupe in einen Schmetterling?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Metamorphose"
+          },
+          {
+            "id": 2,
+            "answer": "Symbiose"
+          },
+          {
+            "id": 3,
+            "answer": "Evolution"
+          },
+          {
+            "id": 4,
+            "answer": "Mitose"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 114,
+        "category": "Geschichte",
+        "title": "Wer war die letzte Königin des alten Ägypten?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Nofretete"
+          },
+          {
+            "id": 2,
+            "answer": "Hatschepsut"
+          },
+          {
+            "id": 3,
+            "answer": "Kleopatra VII."
+          },
+          {
+            "id": 4,
+            "answer": "Nefertari"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 115,
+        "category": "Chemie",
+        "title": "Was stellt die Härte von Diamant chemisch dar?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Reines Silizium"
+          },
+          {
+            "id": 2,
+            "answer": "Reiner Kohlenstoff"
+          },
+          {
+            "id": 3,
+            "answer": "Calciumcarbonat"
+          },
+          {
+            "id": 4,
+            "answer": "Aluminiumoxid"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 116,
+        "category": "Physik",
+        "title": "Welcher Forscher entdeckte die Gesetzmäßigkeiten der Schwerkraft?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Galileo Galilei"
+          },
+          {
+            "id": 2,
+            "answer": "Isaac Newton"
+          },
+          {
+            "id": 3,
+            "answer": "Johannes Kepler"
+          },
+          {
+            "id": 4,
+            "answer": "Nikola Tesla"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 117,
+        "category": "Literatur",
+        "title": "Wie heißt der Detektiv in Arthur Conan Doyles bekannten Werken?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Hercule Poirot"
+          },
+          {
+            "id": 2,
+            "answer": "Sherlock Holmes"
+          },
+          {
+            "id": 3,
+            "answer": "Miss Marple"
+          },
+          {
+            "id": 4,
+            "answer": "Philip Marlowe"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 118,
+        "category": "Musik",
+        "title": "Welches Musikgenre begründete der Musiker Bob Marley?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Blues"
+          },
+          {
+            "id": 2,
+            "answer": "Reggae"
+          },
+          {
+            "id": 3,
+            "answer": "Jazz"
+          },
+          {
+            "id": 4,
+            "answer": "Ska"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 119,
+        "category": "Sport",
+        "title": "Wie viele Spieler gehören beim Fußball zu einer Mannschaft auf dem Feld?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "9"
+          },
+          {
+            "id": 2,
+            "answer": "10"
+          },
+          {
+            "id": 3,
+            "answer": "11"
+          },
+          {
+            "id": 4,
+            "answer": "12"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 120,
+        "category": "Astronomie",
+        "title": "Welches Instrument erfand Galileo Galilei zur Sternenbeobachtung neu?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Mikroskop"
+          },
+          {
+            "id": 2,
+            "answer": "Teleskop"
+          },
+          {
+            "id": 3,
+            "answer": "Sextant"
+          },
+          {
+            "id": 4,
+            "answer": "Barometer"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 121,
+        "category": "Medizin",
+        "title": "Welche Infektionskrankheit gilt seit 1980 als weltweit ausgerottet?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Pocken"
+          },
+          {
+            "id": 2,
+            "answer": "Pest"
+          },
+          {
+            "id": 3,
+            "answer": "Cholera"
+          },
+          {
+            "id": 4,
+            "answer": "Typhus"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 122,
+        "category": "Kunst",
+        "title": "Wer erbaute das berühmte Bauwerk 'Sagrada Família' in Barcelona?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Antoni Gaudí"
+          },
+          {
+            "id": 2,
+            "answer": "Le Corbusier"
+          },
+          {
+            "id": 3,
+            "answer": "Mies van der Rohe"
+          },
+          {
+            "id": 4,
+            "answer": "Walter Gropius"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 123,
+        "category": "Geografie",
+        "title": "Welcher Gebirgszug trennt Europa von Asien?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Kaukasus"
+          },
+          {
+            "id": 2,
+            "answer": "Ural"
+          },
+          {
+            "id": 3,
+            "answer": "Karpaten"
+          },
+          {
+            "id": 4,
+            "answer": "Pyrenäen"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 124,
+        "category": "Biologie",
+        "title": "Aus welchem Stoff bestehen die Zellwände von Pflanzen hauptsächlich?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Chitin"
+          },
+          {
+            "id": 2,
+            "answer": "Cellulose"
+          },
+          {
+            "id": 3,
+            "answer": "Keratin"
+          },
+          {
+            "id": 4,
+            "answer": "Kollagen"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 125,
+        "category": "Geschichte",
+        "title": "In welchem Land begann die Industrielle Revolution?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Deutschland"
+          },
+          {
+            "id": 2,
+            "answer": "Großbritannien"
+          },
+          {
+            "id": 3,
+            "answer": "USA"
+          },
+          {
+            "id": 4,
+            "answer": "Frankreich"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 126,
+        "category": "Chemie",
+        "title": "Wie lautet die chemische Formel von Ozon?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "O2"
+          },
+          {
+            "id": 2,
+            "answer": "O3"
+          },
+          {
+            "id": 3,
+            "answer": "CO2"
+          },
+          {
+            "id": 4,
+            "answer": "H2O2"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 127,
+        "category": "Physik",
+        "title": "Was misst man mit der Einheit 'Joule'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Kraft"
+          },
+          {
+            "id": 2,
+            "answer": "Energie und Arbeit"
+          },
+          {
+            "id": 3,
+            "answer": "Druck"
+          },
+          {
+            "id": 4,
+            "answer": "Spannung"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 128,
+        "category": "Literatur",
+        "title": "Wer verfasste die Erzählung 'Die Verwandlung'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Franz Kafka"
+          },
+          {
+            "id": 2,
+            "answer": "Rainer Maria Rilke"
+          },
+          {
+            "id": 3,
+            "answer": "Bertolt Brecht"
+          },
+          {
+            "id": 4,
+            "answer": "Heinrich Böll"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 129,
+        "category": "Musik",
+        "title": "Wie viele Saiten hat eine klassische Gitarre?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "4 Saiten"
+          },
+          {
+            "id": 2,
+            "answer": "5 Saiten"
+          },
+          {
+            "id": 3,
+            "answer": "6 Saiten"
+          },
+          {
+            "id": 4,
+            "answer": "8 Saiten"
+          }
+        ],
+        "solution_id": 3
+      },
+      {
+        "id": 130,
+        "category": "Sport",
+        "title": "In welchem Land wurde die Kampfsportart Judo entwickelt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "China"
+          },
+          {
+            "id": 2,
+            "answer": "Japan"
+          },
+          {
+            "id": 3,
+            "answer": "Korea"
+          },
+          {
+            "id": 4,
+            "answer": "Thailand"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 131,
+        "category": "Astronomie",
+        "title": "Welche Farbe hat ein kühlerer Stern im Vergleich zu einem sehr heißen Stern?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Blau"
+          },
+          {
+            "id": 2,
+            "answer": "Rot"
+          },
+          {
+            "id": 3,
+            "answer": "Weiß"
+          },
+          {
+            "id": 4,
+            "answer": "Violett"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 132,
+        "category": "Medizin",
+        "title": "Was versteht man unter einer 'Hypertonie'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Niedrigen Blutdruck"
+          },
+          {
+            "id": 2,
+            "answer": "Hohen Blutdruck"
+          },
+          {
+            "id": 3,
+            "answer": "Überzuckerung"
+          },
+          {
+            "id": 4,
+            "answer": "Sauerstoffmangel"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 133,
+        "category": "Kunst",
+        "title": "Aus welchem Jahrhundert stammt die Kunstrichtung des Barock überwiegend?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "15. Jahrhundert"
+          },
+          {
+            "id": 2,
+            "answer": "17. Jahrhundert"
+          },
+          {
+            "id": 3,
+            "answer": "19. Jahrhundert"
+          },
+          {
+            "id": 4,
+            "answer": "20. Jahrhundert"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 134,
+        "category": "Geografie",
+        "title": "Welche Stadt liegt an den Flüssen Moldau und Elbe?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Wien"
+          },
+          {
+            "id": 2,
+            "answer": "Prag"
+          },
+          {
+            "id": 3,
+            "answer": "Budapest"
+          },
+          {
+            "id": 4,
+            "answer": "Bratislava"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 135,
+        "category": "Biologie",
+        "title": "Welches Gas nehmen Pflanzen bei der Photosynthese auf?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Sauerstoff"
+          },
+          {
+            "id": 2,
+            "answer": "Kohlendioxid"
+          },
+          {
+            "id": 3,
+            "answer": "Stickstoff"
+          },
+          {
+            "id": 4,
+            "answer": "Wasserstoff"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 136,
+        "category": "Geschichte",
+        "title": "In welchem Jahr begann der Erste Weltkrieg?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "1912"
+          },
+          {
+            "id": 2,
+            "answer": "1914"
+          },
+          {
+            "id": 3,
+            "answer": "1918"
+          },
+          {
+            "id": 4,
+            "answer": "1939"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 137,
+        "category": "Chemie",
+        "title": "Wie nennt man die Verbindung aus Natrium und Chlor?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Natriumchlorid"
+          },
+          {
+            "id": 2,
+            "answer": "Natriumsulfat"
+          },
+          {
+            "id": 3,
+            "answer": "Natriumhydroxid"
+          },
+          {
+            "id": 4,
+            "answer": "Natriumcarbonat"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 138,
+        "category": "Physik",
+        "title": "Wer erfand den Wechselstrom-Transformator maßgeblich mit?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Thomas Edison"
+          },
+          {
+            "id": 2,
+            "answer": "Nikola Tesla"
+          },
+          {
+            "id": 3,
+            "answer": "Alexander Bell"
+          },
+          {
+            "id": 4,
+            "answer": "James Watt"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 139,
+        "category": "Literatur",
+        "title": "Wer schrieb den Klassiker 'Moby Dick'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Herman Melville"
+          },
+          {
+            "id": 2,
+            "answer": "Edgar Allan Poe"
+          },
+          {
+            "id": 3,
+            "answer": "Jack London"
+          },
+          {
+            "id": 4,
+            "answer": "Jules Verne"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 140,
+        "category": "Musik",
+        "title": "Wer komponierte die Vier Jahreszeiten?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Antonio Vivaldi"
+          },
+          {
+            "id": 2,
+            "answer": "Arcangelo Corelli"
+          },
+          {
+            "id": 3,
+            "answer": "Claudio Monteverdi"
+          },
+          {
+            "id": 4,
+            "answer": "Georg Friedrich Händel"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 141,
+        "category": "Sport",
+        "title": "Wie viele Ringe bilden das offizielle Symbol der Olympischen Spiele?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "4 Ringe"
+          },
+          {
+            "id": 2,
+            "answer": "5 Ringe"
+          },
+          {
+            "id": 3,
+            "answer": "6 Ringe"
+          },
+          {
+            "id": 4,
+            "answer": "7 Ringe"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 142,
+        "category": "Astronomie",
+        "title": "Welcher Planet besitzt ein auffälliges, großes Ringsystem?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Mars"
+          },
+          {
+            "id": 2,
+            "answer": "Saturn"
+          },
+          {
+            "id": 3,
+            "answer": "Venus"
+          },
+          {
+            "id": 4,
+            "answer": "Merkur"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 143,
+        "category": "Medizin",
+        "title": "Welcher Facharzt ist für Hauterkrankungen zuständig?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Kardiologe"
+          },
+          {
+            "id": 2,
+            "answer": "Dermatologe"
+          },
+          {
+            "id": 3,
+            "answer": "Neurologe"
+          },
+          {
+            "id": 4,
+            "answer": "Onkologe"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 144,
+        "category": "Kunst",
+        "title": "Wer malte das Bild 'Das Abendmahl'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Leonardo da Vinci"
+          },
+          {
+            "id": 2,
+            "answer": "Sandro Botticelli"
+          },
+          {
+            "id": 3,
+            "answer": "Tizian"
+          },
+          {
+            "id": 4,
+            "answer": "Giotto"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 145,
+        "category": "Geografie",
+        "title": "Welcher Wüstentyp ist die Sahara überwiegend?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Reine Sandwüste"
+          },
+          {
+            "id": 2,
+            "answer": "Stein- und Kieswüste"
+          },
+          {
+            "id": 3,
+            "answer": "Eiswüste"
+          },
+          {
+            "id": 4,
+            "answer": "Salzwüste"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 146,
+        "category": "Biologie",
+        "title": "Welches Tier ist der schnellste Landräuber der Welt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Löwe"
+          },
+          {
+            "id": 2,
+            "answer": "Gepard"
+          },
+          {
+            "id": 3,
+            "answer": "Leopard"
+          },
+          {
+            "id": 4,
+            "answer": "Puma"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 147,
+        "category": "Geschichte",
+        "title": "Wer war der berühmte Feldherr aus Karthago gegen Rom?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Hannibal"
+          },
+          {
+            "id": 2,
+            "answer": "Scipio"
+          },
+          {
+            "id": 3,
+            "answer": "Spartacus"
+          },
+          {
+            "id": 4,
+            "answer": "Pyrrhus"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 148,
+        "category": "Chemie",
+        "title": "Was ist der Hauptbestandteil von Erdgas?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Ethan"
+          },
+          {
+            "id": 2,
+            "answer": "Methan"
+          },
+          {
+            "id": 3,
+            "answer": "Propan"
+          },
+          {
+            "id": 4,
+            "answer": "Butan"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 149,
+        "category": "Physik",
+        "title": "Wer entdeckte die X-Strahlen (Röntgenstrahlen)?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Wilhelm Conrad Röntgen"
+          },
+          {
+            "id": 2,
+            "answer": "Marie Curie"
+          },
+          {
+            "id": 3,
+            "answer": "Henri Becquerel"
+          },
+          {
+            "id": 4,
+            "answer": "Ernest Rutherford"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 150,
+        "category": "Literatur",
+        "title": "Wer schrieb den Roman 'Die Blechtrommel'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Günter Grass"
+          },
+          {
+            "id": 2,
+            "answer": "Siegfried Lenz"
+          },
+          {
+            "id": 3,
+            "answer": "Martin Walser"
+          },
+          {
+            "id": 4,
+            "answer": "Uwe Johnson"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 151,
+        "category": "Musik",
+        "title": "Welches Blasinstrument hat keine Ventile, sondern einen Zug?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Trompete"
+          },
+          {
+            "id": 2,
+            "answer": "Posaune"
+          },
+          {
+            "id": 3,
+            "answer": "Horn"
+          },
+          {
+            "id": 4,
+            "answer": "Tuba"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 152,
+        "category": "Sport",
+        "title": "Wie viele Satzgewinne braucht man im Herreneinzel bei Grand-Slam-Turnieren?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "2 Sätze"
+          },
+          {
+            "id": 2,
+            "answer": "3 Sätze"
+          },
+          {
+            "id": 3,
+            "answer": "4 Sätze"
+          },
+          {
+            "id": 4,
+            "answer": "5 Sätze"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 153,
+        "category": "Astronomie",
+        "title": "Wie lange braucht das Licht der Sonne ungefähr bis zur Erde?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "8 Sekunden"
+          },
+          {
+            "id": 2,
+            "answer": "8 Minuten"
+          },
+          {
+            "id": 3,
+            "answer": "8 Stunden"
+          },
+          {
+            "id": 4,
+            "answer": "1 Tag"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 154,
+        "category": "Medizin",
+        "title": "Welcher Wirkstoff ist in Aspirin enthalten?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Acetylsalicylsäure"
+          },
+          {
+            "id": 2,
+            "answer": "Paracetamol"
+          },
+          {
+            "id": 3,
+            "answer": "Ibuprofen"
+          },
+          {
+            "id": 4,
+            "answer": "Diclofenac"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 155,
+        "category": "Kunst",
+        "title": "In welchem Baustil wurden im Mittelalter hohe spitze Bögen verwendet?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Romanik"
+          },
+          {
+            "id": 2,
+            "answer": "Gotik"
+          },
+          {
+            "id": 3,
+            "answer": "Renaissance"
+          },
+          {
+            "id": 4,
+            "answer": "Klassizismus"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 156,
+        "category": "Geografie",
+        "title": "Welches Land liegt sowohl in Europa als auch in Asien?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Türkei"
+          },
+          {
+            "id": 2,
+            "answer": "Griechenland"
+          },
+          {
+            "id": 3,
+            "answer": "Bulgarien"
+          },
+          {
+            "id": 4,
+            "answer": "Ukraine"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 157,
+        "category": "Biologie",
+        "title": "Wie heißt die kleinste funktionelle Einheit des Nervensystems?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Neuron"
+          },
+          {
+            "id": 2,
+            "answer": "Nephron"
+          },
+          {
+            "id": 3,
+            "answer": "Axon"
+          },
+          {
+            "id": 4,
+            "answer": "Synapse"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 158,
+        "category": "Geschichte",
+        "title": "Wer war der erste deutsche Bundeskanzler nach 1945?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Willy Brandt"
+          },
+          {
+            "id": 2,
+            "answer": "Konrad Adenauer"
+          },
+          {
+            "id": 3,
+            "answer": "Helmut Schmidt"
+          },
+          {
+            "id": 4,
+            "answer": "Ludwig Erhard"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 159,
+        "category": "Chemie",
+        "title": "Welches Metall leitet elektrischen Strom am besten?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Kupfer"
+          },
+          {
+            "id": 2,
+            "answer": "Silber"
+          },
+          {
+            "id": 3,
+            "answer": "Gold"
+          },
+          {
+            "id": 4,
+            "answer": "Aluminium"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 160,
+        "category": "Physik",
+        "title": "Was ist der absolute Nullpunkt in der Celsius-Skala ungefähr?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "-100 °C"
+          },
+          {
+            "id": 2,
+            "answer": "-273,15 °C"
+          },
+          {
+            "id": 3,
+            "answer": "-450 °C"
+          },
+          {
+            "id": 4,
+            "answer": "0 °C"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 161,
+        "category": "Literatur",
+        "title": "Welcher Autor erfand den fiktiven Spion James Bond?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Ian Fleming"
+          },
+          {
+            "id": 2,
+            "answer": "John le Carré"
+          },
+          {
+            "id": 3,
+            "answer": "Tom Clancy"
+          },
+          {
+            "id": 4,
+            "answer": "Robert Ludlum"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 162,
+        "category": "Musik",
+        "title": "Welche deutsche Künstlerin wurde mit dem Hit 'Atemlos durch die Nacht' bekannt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Helene Fischer"
+          },
+          {
+            "id": 2,
+            "answer": "Andrea Berg"
+          },
+          {
+            "id": 3,
+            "answer": "Beatrice Egli"
+          },
+          {
+            "id": 4,
+            "answer": "Maite Kelly"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 163,
+        "category": "Sport",
+        "title": "In welchem Land fanden die Olympischen Sommerspiele 2008 statt?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Griechenland"
+          },
+          {
+            "id": 2,
+            "answer": "China"
+          },
+          {
+            "id": 3,
+            "answer": "Großbritannien"
+          },
+          {
+            "id": 4,
+            "answer": "Brasilien"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 164,
+        "category": "Astronomie",
+        "title": "Welcher Himmelskörper verlor 2006 seinen Status als Planet?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Ceres"
+          },
+          {
+            "id": 2,
+            "answer": "Pluto"
+          },
+          {
+            "id": 3,
+            "answer": "Eris"
+          },
+          {
+            "id": 4,
+            "answer": "Makemake"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 165,
+        "category": "Medizin",
+        "title": "Welche Blutkörperchen sind für die Abwehr von Krankheitserregern zuständig?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Erythrozyten"
+          },
+          {
+            "id": 2,
+            "answer": "Leukozyten"
+          },
+          {
+            "id": 3,
+            "answer": "Thrombozyten"
+          },
+          {
+            "id": 4,
+            "answer": "Plasma"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 166,
+        "category": "Kunst",
+        "title": "Welcher spanische Maler ist bekannt für die 'Guernica'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Francisco de Goya"
+          },
+          {
+            "id": 2,
+            "answer": "Pablo Picasso"
+          },
+          {
+            "id": 3,
+            "answer": "Diego Velázquez"
+          },
+          {
+            "id": 4,
+            "answer": "Joan Miró"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 167,
+        "category": "Geografie",
+        "title": "In welchem Staat liegt die Stadt Las Vegas?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Kalifornien"
+          },
+          {
+            "id": 2,
+            "answer": "Nevada"
+          },
+          {
+            "id": 3,
+            "answer": "Texas"
+          },
+          {
+            "id": 4,
+            "answer": "Arizona"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 168,
+        "category": "Biologie",
+        "title": "Was für ein Tier ist ein 'Schwamm' biologisch gesehen?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Pflanze"
+          },
+          {
+            "id": 2,
+            "answer": "Tier"
+          },
+          {
+            "id": 3,
+            "answer": "Pilz"
+          },
+          {
+            "id": 4,
+            "answer": "Bakterium"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 169,
+        "category": "Geschichte",
+        "title": "In welchem Jahr begann der Zweite Weltkrieg?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "1933"
+          },
+          {
+            "id": 2,
+            "answer": "1939"
+          },
+          {
+            "id": 3,
+            "answer": "1941"
+          },
+          {
+            "id": 4,
+            "answer": "1945"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 170,
+        "category": "Chemie",
+        "title": "Welches Symbol steht im Periodensystem für Gold?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Ag"
+          },
+          {
+            "id": 2,
+            "answer": "Au"
+          },
+          {
+            "id": 3,
+            "answer": "Go"
+          },
+          {
+            "id": 4,
+            "answer": "Gd"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 171,
+        "category": "Physik",
+        "title": "Wie nennt man die kleinste Menge einer elektromagnetischen Strahlung?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Proton"
+          },
+          {
+            "id": 2,
+            "answer": "Photon"
+          },
+          {
+            "id": 3,
+            "answer": "Quant"
+          },
+          {
+            "id": 4,
+            "answer": "Neutrino"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 172,
+        "category": "Literatur",
+        "title": "Wer erfand die Abenteuerwelt um die Hobbits und Mittelerde?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "C. S. Lewis"
+          },
+          {
+            "id": 2,
+            "answer": "J. R. R. Tolkien"
+          },
+          {
+            "id": 3,
+            "answer": "George R. R. Martin"
+          },
+          {
+            "id": 4,
+            "answer": "Terry Pratchett"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 173,
+        "category": "Musik",
+        "title": "Welches Schlaginstrument besteht aus Holzstäben unterschiedlicher Länge?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Glockenspiel"
+          },
+          {
+            "id": 2,
+            "answer": "Xylophon"
+          },
+          {
+            "id": 3,
+            "answer": "Triangel"
+          },
+          {
+            "id": 4,
+            "answer": "Celesta"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 174,
+        "category": "Sport",
+        "title": "In welcher Sportart gibt es die Position des 'Libero'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Basketball"
+          },
+          {
+            "id": 2,
+            "answer": "Volleyball"
+          },
+          {
+            "id": 3,
+            "answer": "Handball"
+          },
+          {
+            "id": 4,
+            "answer": "Wasserball"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 175,
+        "category": "Astronomie",
+        "title": "Wie nennt man die sichtbare Grenze eines Schwarzen Loches?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Singularität"
+          },
+          {
+            "id": 2,
+            "answer": "Ereignishorizont"
+          },
+          {
+            "id": 3,
+            "answer": "Akkretionsscheibe"
+          },
+          {
+            "id": 4,
+            "answer": "Photonensphäre"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 176,
+        "category": "Medizin",
+        "title": "Welche Infektion wird durch das Bakterium Borrelia burgdorferi verursacht?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Lyme-Borreliose"
+          },
+          {
+            "id": 2,
+            "answer": "FSME"
+          },
+          {
+            "id": 3,
+            "answer": "Tetanus"
+          },
+          {
+            "id": 4,
+            "answer": "Diphtherie"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 177,
+        "category": "Kunst",
+        "title": "Welche Epoche folgte auf die Renaissance?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Gotik"
+          },
+          {
+            "id": 2,
+            "answer": "Barock"
+          },
+          {
+            "id": 3,
+            "answer": "Romantik"
+          },
+          {
+            "id": 4,
+            "answer": "Historismus"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 178,
+        "category": "Geografie",
+        "title": "Wie heißt die Hauptstadt von Neuseeland?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Auckland"
+          },
+          {
+            "id": 2,
+            "answer": "Wellington"
+          },
+          {
+            "id": 3,
+            "answer": "Christchurch"
+          },
+          {
+            "id": 4,
+            "answer": "Hamilton"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 179,
+        "category": "Biologie",
+        "title": "Welche Tiere gehören zur Klasse der Amphibien?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Eidechsen"
+          },
+          {
+            "id": 2,
+            "answer": "Frösche"
+          },
+          {
+            "id": 3,
+            "answer": "Schlangen"
+          },
+          {
+            "id": 4,
+            "answer": "Schildkröten"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 180,
+        "category": "Geschichte",
+        "title": "Wer erfand um 1440 den modernen Buchdruck mit beweglichen Lettern?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Johannes Gutenberg"
+          },
+          {
+            "id": 2,
+            "answer": "Martin Luther"
+          },
+          {
+            "id": 3,
+            "answer": "Albrecht Dürer"
+          },
+          {
+            "id": 4,
+            "answer": "Nikolaus Kopernikus"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 181,
+        "category": "Chemie",
+        "title": "Welcher Stoff ist das härteste natürliche Material?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Quarz"
+          },
+          {
+            "id": 2,
+            "answer": "Diamant"
+          },
+          {
+            "id": 3,
+            "answer": "Korund"
+          },
+          {
+            "id": 4,
+            "answer": "Topas"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 182,
+        "category": "Physik",
+        "title": "In welcher Einheit misst man die Frequenz von Schallwellen?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Dezibel"
+          },
+          {
+            "id": 2,
+            "answer": "Hertz"
+          },
+          {
+            "id": 3,
+            "answer": "Meter/Sekunde"
+          },
+          {
+            "id": 4,
+            "answer": "Pascal"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 183,
+        "category": "Literatur",
+        "title": "Wer ist der Autor der 'Harry Potter' Bücher?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "J. K. Rowling"
+          },
+          {
+            "id": 2,
+            "answer": "Suzanne Collins"
+          },
+          {
+            "id": 3,
+            "answer": "Philip Pullman"
+          },
+          {
+            "id": 4,
+            "answer": "Rick Riordan"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 184,
+        "category": "Musik",
+        "title": "Wie wird die Tonhöhe durch ein Zeichen zu Beginn des Notensystems angegeben?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Taktangabe"
+          },
+          {
+            "id": 2,
+            "answer": "Notenschlüssel"
+          },
+          {
+            "id": 3,
+            "answer": "Vorzeichen"
+          },
+          {
+            "id": 4,
+            "answer": "Pralltriller"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 185,
+        "category": "Sport",
+        "title": "In welchem Sport verwendet man Schläger, Shuttlecocks und ein Netz?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Squash"
+          },
+          {
+            "id": 2,
+            "answer": "Badminton"
+          },
+          {
+            "id": 3,
+            "answer": "Tischtennis"
+          },
+          {
+            "id": 4,
+            "answer": "Pickleball"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 186,
+        "category": "Astronomie",
+        "title": "Welches Sternbild enthält den Nordstern (Polaris)?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Großer Bär"
+          },
+          {
+            "id": 2,
+            "answer": "Kleiner Bär"
+          },
+          {
+            "id": 3,
+            "answer": "Orion"
+          },
+          {
+            "id": 4,
+            "answer": "Kassiopeia"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 187,
+        "category": "Medizin",
+        "title": "Welches Organ ist von der Krankheit 'Grauer Star' betroffen?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Ohr"
+          },
+          {
+            "id": 2,
+            "answer": "Auge"
+          },
+          {
+            "id": 3,
+            "answer": "Haut"
+          },
+          {
+            "id": 4,
+            "answer": "Lunge"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 188,
+        "category": "Kunst",
+        "title": "Welcher Künstler entwarf das Werk 'Der Schrei'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Gustav Klimt"
+          },
+          {
+            "id": 2,
+            "answer": "Edvard Munch"
+          },
+          {
+            "id": 3,
+            "answer": "Egon Schiele"
+          },
+          {
+            "id": 4,
+            "answer": "Max Beckmann"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 189,
+        "category": "Geografie",
+        "title": "Welcher Ozean trennt Amerika von Europa und Afrika?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Pazifischer Ozean"
+          },
+          {
+            "id": 2,
+            "answer": "Atlantischer Ozean"
+          },
+          {
+            "id": 3,
+            "answer": "Indischer Ozean"
+          },
+          {
+            "id": 4,
+            "answer": "Südlicher Ozean"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 190,
+        "category": "Biologie",
+        "title": "Welche Organismen betreiben KEINE Photosynthese?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Algen"
+          },
+          {
+            "id": 2,
+            "answer": "Pilze"
+          },
+          {
+            "id": 3,
+            "answer": "Moose"
+          },
+          {
+            "id": 4,
+            "answer": "Farne"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 191,
+        "category": "Geschichte",
+        "title": "Wer landete als erster Mensch auf dem Mond (1969)?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Juri Gagarin"
+          },
+          {
+            "id": 2,
+            "answer": "Neil Armstrong"
+          },
+          {
+            "id": 3,
+            "answer": "Buzz Aldrin"
+          },
+          {
+            "id": 4,
+            "answer": "Michael Collins"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 192,
+        "category": "Chemie",
+        "title": "Was gibt die Ordnungszahl eines Elements im Periodensystem an?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Anzahl der Neutronen"
+          },
+          {
+            "id": 2,
+            "answer": "Anzahl der Protonen"
+          },
+          {
+            "id": 3,
+            "answer": "Atommasse"
+          },
+          {
+            "id": 4,
+            "answer": "Anzahl der Isotope"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 193,
+        "category": "Physik",
+        "title": "Welcher Aggregatzustand entsteht beim Verdampfen einer Flüssigkeit?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Fest"
+          },
+          {
+            "id": 2,
+            "answer": "Gasförmig"
+          },
+          {
+            "id": 3,
+            "answer": "Plasma"
+          },
+          {
+            "id": 4,
+            "answer": "Überkritisch"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 194,
+        "category": "Literatur",
+        "title": "Wer verfasste 'Das Parfum'?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Patrick Süskind"
+          },
+          {
+            "id": 2,
+            "answer": "Bernhard Schlink"
+          },
+          {
+            "id": 3,
+            "answer": "Daniel Kehlmann"
+          },
+          {
+            "id": 4,
+            "answer": "Max Frisch"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 195,
+        "category": "Musik",
+        "title": "Aus welchem Land stammte der Komponist Frédéric Chopin?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Frankreich"
+          },
+          {
+            "id": 2,
+            "answer": "Polen"
+          },
+          {
+            "id": 3,
+            "answer": "Ungarn"
+          },
+          {
+            "id": 4,
+            "answer": "Tschechien"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 196,
+        "category": "Sport",
+        "title": "Welche Distanz wird beim olympischen Kurzdistanz-Trikot-Schwimmen absolviert?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "750 m"
+          },
+          {
+            "id": 2,
+            "answer": "1,5 km"
+          },
+          {
+            "id": 3,
+            "answer": "3,8 km"
+          },
+          {
+            "id": 4,
+            "answer": "5 km"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 197,
+        "category": "Astronomie",
+        "title": "Wie nennt man die dunklen Flecken auf der Oberfläche der Sonne?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Sonnenkorona"
+          },
+          {
+            "id": 2,
+            "answer": "Sonnenflecken"
+          },
+          {
+            "id": 3,
+            "answer": "Protuberanzen"
+          },
+          {
+            "id": 4,
+            "answer": "Flare-Zonen"
+          }
+        ],
+        "solution_id": 2
+      },
+      {
+        "id": 198,
+        "category": "Medizin",
+        "title": "Welche Krankheit wird auch als 'Krankheit der 1000 Gesichter' bezeichnet?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Multiple Sklerose"
+          },
+          {
+            "id": 2,
+            "answer": "Parkinson"
+          },
+          {
+            "id": 3,
+            "answer": "Alzheimer"
+          },
+          {
+            "id": 4,
+            "answer": "Gicht"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 199,
+        "category": "Kunst",
+        "title": "Welche Stilrichtung prägte der Architekt Walter Gropius?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Bauhaus"
+          },
+          {
+            "id": 2,
+            "answer": "Jugendstil"
+          },
+          {
+            "id": 3,
+            "answer": "Art déco"
+          },
+          {
+            "id": 4,
+            "answer": "Biedermeier"
+          }
+        ],
+        "solution_id": 1
+      },
+      {
+        "id": 200,
+        "category": "Geografie",
+        "title": "Welches Land hat die Hauptstadt Bern?",
+        "answers": [
+          {
+            "id": 1,
+            "answer": "Österreich"
+          },
+          {
+            "id": 2,
+            "answer": "Schweiz"
+          },
+          {
+            "id": 3,
+            "answer": "Liechtenstein"
+          },
+          {
+            "id": 4,
+            "answer": "Luxemburg"
+          }
+        ],
+        "solution_id": 2
+      }
+    ]
+  }
+}
