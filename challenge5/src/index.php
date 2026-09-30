@@ -36,7 +36,7 @@ if ($_SERVER['REQUEST_METHOD'] === "POST" && isset($_POST["answer"])) {
 <body>
   <div class="container">
     <div class="top-bar">
-      <span class="m-2 text-bold text"><?= QUIZ_TITLE ?></span>
+      <span class="m-2 text-bold"><?= QUIZ_TITLE ?></span>
     </div>
     <?php
     if ($quiz->has_error()) {
